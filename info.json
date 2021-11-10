@@ -1,0 +1,17 @@
+{
+  "name": "alien-hypermodule",
+  "title": "Alien Hypermodules",
+  "version": "0.1.0",
+  "author": "sensenmann (edited by RedRafe)",
+  "description": "Adds Hypermodules based on killcount.",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1",
+    "? bobenemies >= 0.15.2",
+    "? Natural_Evolution_Enemies >= 0.17.0",
+    "? Rampant >= 0.16.34",
+    "? SchallEndgameEvolution >= 1.0.0",
+    "! biter_factions",
+    "! UnlimitedProductivity"
+  ]
+}

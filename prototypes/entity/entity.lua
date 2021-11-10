@@ -1,0 +1,1 @@
+local alien_tint = { r = 0.8, g = 0.4, b = 0.8, a = 0.8 }
